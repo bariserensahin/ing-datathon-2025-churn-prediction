@@ -1,5 +1,6 @@
 # ING Hubs Datathon - Customer Churn Prediction
 **Yazar:** Barış Eren Şahin
+<img width="1113" height="142" alt="submission score" src="https://github.com/user-attachments/assets/231bc8dc-729a-40ca-b057-9a45281e028f" />
 
 Merhaba, bu repoda ING Hubs Datathon için geliştirdiğim müşteri kaybı tahmin çözümünü bulabilirsiniz. Bu projede ana hedefim, yaklaşık 176 bin müşterinin demografik ve finansal verilerini analiz ederek, referans tarihinden sonraki altı ay içinde bankayı bırakma ihtimali yüksek olan müşteri profillerini belirlemekti.
 
